@@ -1,8 +1,10 @@
-
 #EXTM3U
-#EXTINF:-1 ,24/7 : Aquaman Classic 1967-1970
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/143.ts
-#EXTINF:-1 ,24/7 : AstroBoy 1980 Classic
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/141.ts
-#EXTINF:-1 ,24/7 : Canuto & Canito
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/121.ts
+
+#EXTINF:-1,3ABN LATINO
+http://45.166.92.22:58001/play/a04z/index.m3u8
+#EXTINF:-1,A&E HD
+http://45.166.92.22:58001/play/a00p/index.m3u8
+#EXTINF:-1,AMC HD
+http://45.166.92.22:58001/play/a00q/index.m3u8
+#EXTINF:-1,AXN HD
+http://45.166.92.22:58001/play/a02n/index.m3u8
